@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Intranet Updates</title>
+        <item>
+            <title>Version 0.0.4</title>
+            <description><![CDATA[
+                <b>What's new in 0.0.4</b><br/><br/>
+                ✅ New dashboard summary widget<br/>
+                ✅ UI Enhancements<br/>
+                ✅ Field Clock In/Out Function<br/>
+            ]]></description>
+            <sparkle:minimumSystemVersion>1.0.5</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=com.yourcompany.payrecon"
+                sparkle:version="1.0.5"
+                sparkle:shortVersionString="1.0.5"
+                sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
+
 
