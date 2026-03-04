@@ -3,18 +3,18 @@
     <channel>
         <title>PayRecon Updates - iOS</title>
         <item>
-            <title>Version 1.0.5</title>
-            <description>   
-              <b>What's new in 0.0.4</b><br/><br/>
+            <title>Version 0.0.4</title>
+             <description><![CDATA[
+                <b>What's new in 0.0.4</b><br/><br/>
                 ✅ New dashboard summary widget<br/>
                 ✅ UI Enhancements<br/>
                 ✅ Field Clock In/Out Function<br/>
-
-            ]]></description></description>
-            <sparkle:minimumSystemVersion>1.0.5</sparkle:minimumSystemVersion>
+                 
+            ]]></description>
+            <sparkle:minimumSystemVersion>0.0.4</sparkle:minimumSystemVersion>
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
             <enclosure
-                url="https://apps.apple.com/app/idYOUR_APPLE_APP_ID"
+                url="https://apps.apple.com/us/app/payrecon-intranet/id6757571595"
                 sparkle:version="1.0.5"
                 sparkle:shortVersionString="1.0.5"
                 sparkle:os="ios" />
