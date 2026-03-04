@@ -10,12 +10,12 @@
                 ✅ UI Enhancements<br/>
                 ✅ Field Clock In/Out Function<br/>
             ]]></description>
-            <sparkle:minimumSystemVersion>1.0.5</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>0.0.4</sparkle:minimumSystemVersion>
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://appgallery.huawei.com/app/C116639515"
-                sparkle:version="1.0.5"
-                sparkle:shortVersionString="1.0.5"
+                sparkle:version="0.0.4"
+                sparkle:shortVersionString="0.0.4"
                 sparkle:os="android" />
         </item>
     </channel>
