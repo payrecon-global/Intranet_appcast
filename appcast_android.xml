@@ -11,14 +11,11 @@
                 ✅ Field Clock In/Out Function<br/>
             ]]></description>
 
-            <!-- ✅ REMOVED sparkle:minimumSystemVersion entirely -->
-            <!-- ✅ Use minimumOSVersion for actual Android API level if needed -->
-
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.payrecon.intranet"
-                sparkle:version="15"
-                sparkle:shortVersionString="0.0.4"
+                sparkle:version="0.0.4+15"
+                sparkle:shortVersionString="0.0.4+15"
                 sparkle:os="android" />
         </item>
     </channel>
