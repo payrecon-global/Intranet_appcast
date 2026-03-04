@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>PayRecon Updates - iOS</title>
+        <title>Intranet Updates</title>
         <item>
             <title>Version 0.0.4</title>
-             <description><![CDATA[
+            <description><![CDATA[
                 <b>What's new in 0.0.4</b><br/><br/>
                 ✅ New dashboard summary widget<br/>
                 ✅ UI Enhancements<br/>
                 ✅ Field Clock In/Out Function<br/>
-                 
             ]]></description>
-            <sparkle:minimumSystemVersion>0.0.4</sparkle:minimumSystemVersion>
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
             <enclosure
-                url="https://apps.apple.com/us/app/payrecon-intranet/id6757571595"
+                url="https://apps.apple.com/app/idYOUR_APP_ID"
                 sparkle:version="0.0.4"
                 sparkle:shortVersionString="0.0.4"
                 sparkle:os="ios" />
