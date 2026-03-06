@@ -3,9 +3,9 @@
     <channel>
         <title>Intranet Updates</title>
         <item>
-            <title>Version 0.0.5</title>
+            <title>Version 0.0.4</title>
             <description><![CDATA[
-                <b>What's new in 0.0.5</b><br/><br/>
+                <b>What's new in 0.0.4</b><br/><br/>
                 ✅ New dashboard summary widget<br/>
                 ✅ UI Enhancements<br/>
                 ✅ Field Clock In/Out Function<br/>
@@ -14,8 +14,8 @@
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.payrecon.intranet"
-                sparkle:version="0.0.5"
-                sparkle:shortVersionString="0.0.5"
+                sparkle:version="0.0.4"
+                sparkle:shortVersionString="0.0.4"
                 sparkle:os="android" />
         </item>
     </channel>
