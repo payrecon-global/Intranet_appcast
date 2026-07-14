@@ -9,7 +9,7 @@
                 ✅ Improved Clock Sync reliability.<br/>
                 ✅ Fixed an issue where file uploads could fail when creating a claim on iOS.<br/>
             ]]></description>
-            <pubDate>Wed, 14 Jul 2026 12:00:00 +0000</pubDate>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://apps.apple.com/us/app/payrecon-intranet/id6757571595"
                 sparkle:version="0.0.6"
