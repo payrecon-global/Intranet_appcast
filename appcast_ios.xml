@@ -3,16 +3,17 @@
     <channel>
         <title>Intranet Updates</title>
         <item>
-            <title>Version 0.0.5</title>
+            <title>Version 0.0.6</title>
             <description><![CDATA[
-                <b>What's new in 0.0.5</b><br/><br/>
-                ✅ Claim Page Enhancement<br/>
+                <b>What's new in 0.0.6</b><br/><br/>
+                ✅ Improved Clock Sync reliability.<br/>
+                ✅ Fixed an issue where file uploads could fail when creating a claim on iOS.<br/>
             ]]></description>
-            <pubDate>Wed, 08 Apr 2026 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 14 Jul 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://apps.apple.com/us/app/payrecon-intranet/id6757571595"
-                sparkle:version="0.0.5"
-                sparkle:shortVersionString="0.0.5"
+                sparkle:version="0.0.6"
+                sparkle:shortVersionString="0.0.6"
                 sparkle:os="ios" />
         </item>
     </channel>
