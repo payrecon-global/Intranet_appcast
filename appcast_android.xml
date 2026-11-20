@@ -3,18 +3,18 @@
     <channel>
         <title>Intranet Updates</title>
         <item>
-            <title>Version 0.0.5</title>
+            <title>Version 0.0.9</title>
             <description><![CDATA[
-                <b>What's new in 0.0.6</b><br/><br/>
-                ✅ Improved Clock Sync reliability.<br/>
-                ✅ Fixed an issue where file uploads could fail when creating a claim on iOS.<br/>
+                <b>What's new in 0.0.9</b><br/><br/>
+                ✅ New Calendar function.<br/>
+                ✅ Bug Fix Unsync Clock in/out unable to sycn.<br/>
             ]]></description>
 
-            <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+            <pubDate>Tue, 20 Nov 2026 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.payrecon.intranet"
-                sparkle:version="0.0.5"
-                sparkle:shortVersionString="0.0.5"
+                sparkle:version="0.0.9"
+                sparkle:shortVersionString="0.0.9"
                 sparkle:os="android" />
         </item>
     </channel>
